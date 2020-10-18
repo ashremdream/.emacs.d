@@ -1,0 +1,1 @@
+#s(hash-table size 65 test equal rehash-size 1.5 rehash-threshold 0.8125 data ("/home/ash/.emacs.d/lisp/init-complete.el" ((:point 774)) "/home/ash/code/Python/hello.py" ((:point 109))))

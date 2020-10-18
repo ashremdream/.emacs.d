@@ -1,0 +1,19 @@
+;;;; Emacs Bookmark Format Version 1 ;;;; -*- coding: utf-8-emacs -*-
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+((".emacs.d"
+ (filename . "~/.emacs.d/")
+ (front-context-string . "lisp\n  -rw-r--r-")
+ (rear-context-string . "96 10月 11 22:43 ")
+ (position . 771))
+("init.el"
+ (filename . "~/.emacs.d/init.el")
+ (front-context-string . "\n\n(add-to-list '")
+ (rear-context-string . "list-original)))")
+ (position . 959))
+("Emacs-Book"
+ (handler . eaf--bookmark-restore)
+ (eaf-app . "browser")
+ (filename . "http://book.emacs-china.org/"))
+)
